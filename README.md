@@ -5,3 +5,6 @@ Both web server and client development
 include static and dynamic web page.
 
 ##### 2.JSP(Java Server Page)
+domain name:www.aliali.online
+IP:127.0.0.1
+port:8080
